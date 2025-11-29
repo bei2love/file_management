@@ -1,0 +1,5 @@
+{
+  "name": "File Scanner",
+  "description": "A high-performance file integrity scanner and cataloger designed for Synology NAS environments. Features MD5 calculation, resumable scanning, and Excel export.",
+  "requestFramePermissions": []
+}
